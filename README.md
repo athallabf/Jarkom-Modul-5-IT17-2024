@@ -377,12 +377,15 @@ pasitiin HDD ini bisa ping ke semua nodes
 `iptables -A INPUT -s 10.72.2.11 -j ACCEPT`
 ![alt text](images/image-29.png)
 
-6. fairy bisa ping ke HDD
+6. 
+fairy bisa ping ke HDD
 ![alt text](images/image-30.png)
 tapi nodes lain gabisa ping ke HDD
 ![alt text](images/image-31.png)
 
 7. test pake netcat 
+di HDD nyalain netcat dlu baru yang lain
+`nc -l -p 12345`
 ![alt text](images/image-45.png)
 ![alt text](images/image-48.png)
 ![alt text](images/image-46.png)
