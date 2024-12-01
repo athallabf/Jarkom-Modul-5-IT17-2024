@@ -373,7 +373,7 @@ pasitiin HDD ini bisa ping ke semua nodes
 ![alt text](images/image-27.png)
 
 4. Bikin aturan untuk blok semua request 
-`iptables -A INPUT DROP`
+`iptables -P INPUT DROP`
 ![alt text](images/image-28.png)
 
 5. lalu buat aturan agar hanya Fairy (10.72.2.11) yang bisa akses
