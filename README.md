@@ -435,7 +435,7 @@ kita allow hari sabtu
 
 ## NO 6 HIA PORTSCAN
 1. masuk web console HIA trus cat setup.sh
-run iptables dari "Create a chain for handling port scanning"
+run iptables dari "Create a chain for handling port scanning" sampe bawah
 ![alt text](images/image-53.png)
 2. cek web console policeboo trus ping sama curl ke HIA
 ![alt text](images/image-54.png)
