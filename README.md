@@ -8,6 +8,7 @@
 | Jody Hezekiah Tanasa Sagala | 5027221050 |
 
 ## NOTES
+Kalo ada kesalahan di dokumentasi tolong di laporkan
 Config ada di folder devices, tinggal masukin aja semuanya ke /root
 kalo gaada confignya di folder devices, berarti emg gaada confignya
 
