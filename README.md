@@ -462,17 +462,19 @@ untuk ip disini
 terlihat kalo hanya 2 koneksi yang bisa akses curl
 
 ## NO 8 Burnice
-1. masuk web console Burnice trus run setup.sh
+
+1. didalam setup.sh ada ip, itu IP dari HollowZero
+2. masuk web console Burnice trus run setup.sh
 ![alt text](images/image-65.png)
 cek juga ip dari burnice disini ipnya 10.72.2.67
 liat di bagian inet
 ![alt text](images/image-67.png)
-2. di hollowzero coba listen nc port 12345
+3. di hollowzero coba listen nc port 12345
 `nc -l -p 12345`
 ![alt text](images/image-66.png)
-3. di fairy kita netcat ke Burnice
+4. di fairy kita netcat ke Burnice
 ![alt text](images/image-68.png)
-4. nanti hollowzero yang akan mendapat messagenya bukan burnice
+5. nanti hollowzero yang akan mendapat messagenya bukan burnice
 ![alt text](images/image-69.png)
 
 ## MISI 3
