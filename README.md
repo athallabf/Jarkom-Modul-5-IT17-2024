@@ -9,7 +9,9 @@
 
 ## NOTES
 Kalo ada kesalahan di dokumentasi tolong di laporkan
+
 Config ada di folder devices, tinggal masukin aja semuanya ke /root
+
 kalo gaada confignya di folder devices, berarti emg gaada confignya
 
 ## TOPOLOGY
